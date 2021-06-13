@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @etsillac
+- 👀 I’m interested in Computer Sciences and Electrical Engineering
+- 🌱 I’m currently learning courses on EDX
+- 💞️ I’m not looking to collaborate! (sorry)
+- 📫 You can reach me by sending me an email at callistegabriel0@gmail.com

@@ -13,10 +13,13 @@
 ## Table of content
 
 1. [System](#system)
+
  1. [Grades](#grades)
  2. [Modules](#modules)
  3. [Security](#security)
+
 2. [Design](#design)
+
  1. [Overview](#overview)
  2. [Sections](#sections)
 
